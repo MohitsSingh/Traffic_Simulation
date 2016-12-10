@@ -15,11 +15,12 @@
                 new_cars.m 封装了新车辆产生规则
                 show_plaza.m 封装了更新地图函数
 ##最终效果
-###仿真过程及统计结果截图
+###仿真过程截图
 ![image](/src/1.jpg)
 ![image](/src/2.jpg)
 ![image](/src/3.jpg)
 ![image](/src/4.jpg)
+###模拟结果截图
 ![image](/src/11.jpg)
 ![image](/src/22.jpg)
 ![image](/src/33.jpg)
