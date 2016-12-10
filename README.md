@@ -18,8 +18,14 @@
 ###仿真过程及统计结果截图
 ![image](/src/1.jpg)
 ![image](/src/2.jpg)
-![image](/src/show.jpg)
-<img  src="/src/2.jpg" height=50%  /img>
+![image](/src/3.jpg)
+![image](/src/4.jpg)
+![image](/src/11.jpg)
+![image](/src/22.jpg)
+![image](/src/33.jpg)
+![image](/src/44.jpg)
+
+
 
 
 
