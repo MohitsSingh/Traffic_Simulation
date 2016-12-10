@@ -19,7 +19,7 @@
 ![image](/src/1.jpg)
 ![image](/src/2.jpg)
 ![image](/src/show.jpg)
-<img  src="/src/2.jpg" /img>
+<img  src="/src/2.jpg" height=50%  /img>
 
 
 
