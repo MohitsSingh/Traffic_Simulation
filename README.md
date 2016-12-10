@@ -15,4 +15,15 @@
                 new_cars.m 封装了新车辆产生规则
                 show_plaza.m 封装了更新地图函数
 ##最终效果
-                截图
+###仿真过程截图
+                ![image](https://github.com/crh19970307/Traffic_Simulation/tree/master/src/1.jpg)
+                ![image](https://github.com/crh19970307/Traffic_Simulation/tree/master/src/2.jpg)
+                ![image](https://github.com/crh19970307/Traffic_Simulation/tree/master/src/3.jpg)
+                ![image](https://github.com/crh19970307/Traffic_Simulation/tree/master/src/4.jpg)
+###统计结果截图
+     ![image](https://github.com/crh19970307/Traffic_Simulation/tree/master/src/11.jpg)
+     ![image](https://github.com/crh19970307/Traffic_Simulation/tree/master/src/22.jpg)
+     ![image](https://github.com/crh19970307/Traffic_Simulation/tree/master/src/33.jpg)
+     ![image](https://github.com/crh19970307/Traffic_Simulation/tree/master/src/44.jpg)
+        
+                
