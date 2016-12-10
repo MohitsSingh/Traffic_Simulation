@@ -18,14 +18,14 @@
 ###仿真过程截图
 
 ![image](/src/1.jpg)
-![image](https://raw.githubusercontent.com/crh19970307/Traffic_Simulation/tree/master/src/2.jpg)
-![image](https://raw.githubusercontent.com/crh19970307/Traffic_Simulation/tree/master/src/3.jpg)
-![image](https://raw.githubusercontent.com/crh19970307/Traffic_Simulation/tree/master/src/4.jpg)
+![image](/src/2.jpg)
+![image](/src/3.jpg)
+![image](/src/4.jpg)
 ###统计结果截图
 
-![image](https://raw.githubusercontent.com/crh19970307/Traffic_Simulation/tree/master/src/11.jpg)
-![image](https://raw.githubusercontent.com/crh19970307/Traffic_Simulation/tree/master/src/22.jpg)
-![image](https://raw.githubusercontent.com/crh19970307/Traffic_Simulation/tree/master/src/33.jpg)
-![image](https://raw.githubusercontent.com/crh19970307/Traffic_Simulation/tree/master/src/44.jpg)
+![image](/src/11.jpg)
+![image](/src/22.jpg)
+![image](/src/33.jpg)
+![image](/src/44.jpg)
         
                 
